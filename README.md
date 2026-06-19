@@ -27,21 +27,6 @@ We keep these files public so that other reporters, researchers, and members of 
 
 Documents are grouped by agency, then by individual request, so everything tied to one request lives in one place.
 
-```
-.
-├── README.md
-├── ice/
-│   ├── 2025-001-detention-contracts/
-│   │   ├── request.pdf
-│   │   ├── response-letter.pdf
-│   │   └── released-records/
-│   └── 2025-004-aor-consolidation/
-├── gsa/
-│   └── 2025-002-warehouse-leases/
-└── dhs-oig/
-    └── 2025-003-oversight-reports/
-```
-
 ## How to use it
 
 You can:
