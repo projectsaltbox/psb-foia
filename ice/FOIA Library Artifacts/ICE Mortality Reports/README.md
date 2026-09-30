@@ -5,3 +5,5 @@ This folder contains mortality reports that U.S. Immigration and Customs Enforce
 The reports have since been removed from the FOIA Library. The reason for their removal is not known.
 
 We have archived the deleted files in this folder so they remain publicly available.
+
+**Note:** *Some files in this archive may look blank when viewed in a browser. Download them and open them in a PDF reader to see the contents.*
